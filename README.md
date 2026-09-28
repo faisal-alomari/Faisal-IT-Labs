@@ -5,3 +5,5 @@ A hands-on IT Support laps covering Windows, networking, troubleshooting, and Po
 - Networking 
 - PowerShell
 - Hardware & Software Support
+## Troubleshooting Cases
+- [Internet Not Working](troubleshooting/internet-not-working.md)
