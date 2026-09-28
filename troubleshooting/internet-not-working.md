@@ -11,6 +11,11 @@ The user cannot open websites.
 3. Ping the default gateway.
 4. Ping a public IP address.
 5. Use `nslookup` to check name resolution.
+## Commands Used
+`ipconfig /all`
+`ping 192.168.100.1`
+`ping 8.8.8.8`
+`nslookup google.com`
 ## Findings
 ### Test 1 - Normal Connection
 The network was tested while the device was connected.
