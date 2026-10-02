@@ -11,3 +11,4 @@ A hands-on IT lab focused on networking, troubleshooting, Windows, PowerShell, a
 - [Case 01: Internet Not Working](troubleshooting/internet-not-working.md)
 - [Case 02: DNS Resolution Problem](troubleshooting/dns-resolution-problem.md)
 - [Case 03: DHCP / APIPA Problem](troubleshooting/dhcp-apipa-problem.md)
+- [Case 04: Duplicate IP Address](troubleshooting/duplicate-ip-address.md)
