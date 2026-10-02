@@ -1,10 +1,12 @@
-# IT Support Labs
-A hands-on IT Support labs covering Windows, networking, troubleshooting, and PowerShell.
-## Topics 
+# Faisal IT Labs
+A hands-on IT lab focused on networking, troubleshooting, Windows, PowerShell, and practical technical support.
+
+## Topics
 - Windows Troubleshooting
-- Networking 
+- Networking
 - PowerShell
 - Hardware & Software Support
+
 ## Troubleshooting Cases
 - [Case 01: Internet Not Working](troubleshooting/internet-not-working.md)
 - [Case 02: DNS Resolution Problem](troubleshooting/dns-resolution-problem.md)
