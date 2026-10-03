@@ -12,3 +12,4 @@ A hands-on IT lab focused on networking, troubleshooting, Windows, PowerShell, a
 - [Case 02: DNS Resolution Problem](troubleshooting/dns-resolution-problem.md)
 - [Case 03: DHCP / APIPA Problem](troubleshooting/dhcp-apipa-problem.md)
 - [Case 04: Duplicate IP Address](troubleshooting/duplicate-ip-address.md)
+- [Case 05: Cannot Reach Default Gateway](troubleshooting/cannot-reach-default-gateway.md)
